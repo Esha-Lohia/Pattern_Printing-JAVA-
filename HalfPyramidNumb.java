@@ -1,4 +1,5 @@
-
+package Pattern_Printing-JAVA-;
+import java.util.Scanner;
 public class HalfPyramidNumb {
   public static void main(String[] args) {
     for(int i=1; i<=5; i++){
